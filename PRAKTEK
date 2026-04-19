@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Halo Dunia</title>
+    <style>
+        body { background-color: #f0f0f0; font-family: Arial; text-align: center; padding-top: 50px; }
+        h1 { color: #064e3b; }
+        p { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Halo Dunia!</h1>
+    <p>Belajar VS Code itu menyenangkan.</p>
+</body>
+</html>
